@@ -1,22 +1,22 @@
 {
-  "name": "your.name.space.yourPluginName",
+  "name": "cordova-parse-sdk",
   "version": "0.0.1-dev",
-  "description": "Cordova Sample Plugin",
+  "description": "Parse SDK Cordova Plugin",
   "cordova": {
-    "id": "your.name.space.yourPluginName",
+    "id": "cordova-parse-sdk",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akofman/cordova-plugin-boilerplate"
+    "url": "https://github.com/danwilson/cordova-parse"
   },
   "keywords": [
     "cordova",
     "ecosystem:cordova",
     "cordova-ios"
   ],
-  "author": "Alexis Kofman",
+  "author": "Daniel C. Wilson",
   "license": "MIT"
 }
